@@ -1,0 +1,10 @@
+wheel
+setuptools
+pytest
+pytest-env
+setuptools-git-versioning
+requests-mock
+pytest-mock
+pytest-cov
+black
+twine
